@@ -66,7 +66,6 @@ This repository progresses through:
 - Jupyter Notebook
 - Core Python libraries
 
----
 
 **Last Updated:** 2026-05-02
 
