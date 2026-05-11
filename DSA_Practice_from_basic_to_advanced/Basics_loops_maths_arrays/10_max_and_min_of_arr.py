@@ -15,6 +15,9 @@ Minimum: 1
 '''
 
 
+
+
+
 #option 2: without using built-in functions
 def max_and_min_of_arr(arr):
     if not arr:
